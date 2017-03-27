@@ -1,0 +1,9 @@
+c:\users\theevilone45\documents\visual studio 2015\Projects\FractalTree\FractalTree\bin\Debug\FractalTree.exe.config
+c:\users\theevilone45\documents\visual studio 2015\Projects\FractalTree\FractalTree\bin\Debug\FractalTree.exe
+c:\users\theevilone45\documents\visual studio 2015\Projects\FractalTree\FractalTree\bin\Debug\FractalTree.pdb
+c:\users\theevilone45\documents\visual studio 2015\Projects\FractalTree\FractalTree\obj\Debug\FractalTree.csprojResolveAssemblyReference.cache
+c:\users\theevilone45\documents\visual studio 2015\Projects\FractalTree\FractalTree\obj\Debug\FractalTree.Properties.Resources.resources
+c:\users\theevilone45\documents\visual studio 2015\Projects\FractalTree\FractalTree\obj\Debug\FractalTree.csproj.GenerateResource.Cache
+c:\users\theevilone45\documents\visual studio 2015\Projects\FractalTree\FractalTree\obj\Debug\FractalTree.exe
+c:\users\theevilone45\documents\visual studio 2015\Projects\FractalTree\FractalTree\obj\Debug\FractalTree.pdb
+C:\Users\theevilone45\documents\visual studio 2015\Projects\FractalTree\FractalTree\obj\Debug\FractalTree.Window1.resources
